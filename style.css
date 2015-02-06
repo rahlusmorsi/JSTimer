@@ -1,0 +1,9 @@
+/* CSS Document */
+
+div#display,
+div#alarm_display{
+	font-size:3em;
+}
+span.dimmed {
+	color: #bbb;
+}
